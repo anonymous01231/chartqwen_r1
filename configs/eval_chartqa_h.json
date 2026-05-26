@@ -1,0 +1,9 @@
+{
+  "dataset_name": "ChartQA_h",
+  "src_file": "/path/to/ChartQA/test_human.json",
+  "image_dir": "/path/to/ChartQA/test/png",
+  "output": "outputs/eval_chartqa_h.jsonl",
+  "prediction_field": "model_response",
+  "target_field": "gt",
+  "tolerance": 0.05
+}

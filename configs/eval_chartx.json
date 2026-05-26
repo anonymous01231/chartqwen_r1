@@ -1,0 +1,9 @@
+{
+  "dataset_name": "ChartX",
+  "src_file": "/path/to/ChartX/test.json",
+  "image_dir": "/path/to/ChartX/images",
+  "output": "outputs/eval_chartx.jsonl",
+  "prediction_field": "model_response",
+  "target_field": "gt",
+  "tolerance": 0.05
+}

@@ -1,0 +1,9 @@
+{
+  "dataset_name": "ChartBench",
+  "src_file": "/path/to/ChartBench/test.jsonl",
+  "image_dir": null,
+  "output": "outputs/eval_chartbench.jsonl",
+  "prediction_field": "model_response",
+  "target_field": "gt",
+  "tolerance": 0.05
+}

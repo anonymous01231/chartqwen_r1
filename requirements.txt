@@ -1,0 +1,5 @@
+ms-swift
+torch
+tqdm
+vllm
+deepspeed
